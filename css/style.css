@@ -171,7 +171,8 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
     height: 100%;
     list-style: none;
     margin: 0;
-    padding: 0;    
+    padding: 0;  
+    transition: left ease-in 0.8s;  
 }
 
 .sp-slider > li {
